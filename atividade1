@@ -1,0 +1,8 @@
+<?php
+$numero1 = 5;
+$numero2 = 2;
+$soma =. $numero1. + .$numero2;
+$multiplicacao = . $soma .*. $numero1;
+echo "Soma. $soma ."<br>";
+echo "Multiplicação: $multiplicacao";
+?>
