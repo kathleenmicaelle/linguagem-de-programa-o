@@ -1,0 +1,5 @@
+<?php
+$valor = 10568;
+$percentual = $Valor . * . 0.15
+echo "15% de $valor é $percentual";
+?>
