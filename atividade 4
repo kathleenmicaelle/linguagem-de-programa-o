@@ -1,0 +1,7 @@
+<?php
+$valor = 1567; 
+$cinco_porcento = $valor .*. 0.05;
+cinquenta_porcento = $valor. *. 0.50;
+echo "5% de $valor "e" $cinco_porcento <br>";
+echo "50% de $valor "e" $cinquenta_porcento";
+?>
